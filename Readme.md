@@ -1,9 +1,24 @@
-# Hell0  Everyone! I am Vedant Ravindra Domde
+# Name:-Vedant Ravindra Domde
 
-### this frontend static webiste
+## Project Name:-Law website 3
 
-## see my final website below
+### My final webist is below.
 
-![homepage](homepage.jpg.png)
+![homepage](thumbnail.png)
 
-- Time Taken:-5 hour 48 min
+- Time Taken:-1 hour 48 min
+
+## Technologies
+#### Project is created with:
+* HTML5
+* CSS3
+* flex
+
+
+## Experience got on this project:-
+         * Learn first time how to used flex in CSS
+
+
+  [Deploy link]((https://vedantdomde.github.io/Justice-website-3/s).         
+
+
